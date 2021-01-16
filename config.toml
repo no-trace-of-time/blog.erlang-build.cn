@@ -1,5 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://blog.erlang-build.cn/"
+languageCode = "zh-cn"
+title = "Erlang构建的世界"
+publishDir = "public"
 
 theme = "ananke"
