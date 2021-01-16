@@ -1,6 +1,6 @@
 baseURL = "http://blog.erlang-build.cn/"
 languageCode = "zh-cn"
 title = "Erlang构建的世界"
-publishDir = "public"
+publishDir = "docs"
 
 theme = "ananke"
